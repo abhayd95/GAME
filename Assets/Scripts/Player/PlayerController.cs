@@ -1,3 +1,11 @@
+/*
+ * Copyright (c) 2024 abhay virus. All rights reserved.
+ * 
+ * This file is part of the Free Fire Clone game.
+ * No part of this software may be reproduced, distributed, or transmitted
+ * without the prior written permission of the copyright owner.
+ */
+
 using UnityEngine;
 using UnityEngine.UI;
 

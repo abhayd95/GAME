@@ -148,6 +148,12 @@ Special thanks to:
 © 2024 abhay virus
 All rights reserved.
 
+COPYRIGHT NOTICE:
+This game and all its components are the intellectual 
+property of abhay virus. No part of this software may 
+be reproduced, distributed, or transmitted without 
+prior written permission.
+
 This is a fan-made project inspired by Free Fire.
 Not affiliated with Garena or Free Fire.";
         }

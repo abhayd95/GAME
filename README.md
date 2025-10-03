@@ -266,4 +266,10 @@ For support and questions:
 
 **Developed by abhay virus** - A passionate game developer creating amazing battle royale experiences! 🎮🔥
 
-**Note**: This is a fan-made project inspired by Free Fire. It is not affiliated with Garena or Free Fire in any way.
+---
+
+## 📄 **Copyright**
+
+© 2024 **abhay virus**. All rights reserved.
+
+This is a fan-made project inspired by Free Fire. It is not affiliated with Garena or Free Fire in any way.

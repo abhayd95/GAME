@@ -79,13 +79,13 @@
 
 ---
 
-## 📄 **License**
+## 📄 **Copyright & License**
 
-© 2024 abhay virus  
-All rights reserved.  
+© 2024 **abhay virus**. All rights reserved.
 
-This is a fan-made project inspired by Free Fire.  
-Not affiliated with Garena or Free Fire.
+**Copyright Notice**: This game and all its components are the intellectual property of **abhay virus**. No part of this software may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the copyright owner.
+
+**License**: This is a fan-made project inspired by Free Fire. It is not affiliated with Garena or Free Fire in any way.
 
 ---
 
