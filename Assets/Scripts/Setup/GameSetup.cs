@@ -214,7 +214,27 @@ namespace FreeFire.Setup
                 gameManager.AddComponent<GameManager>();
             }
 
-            Debug.Log("Networking setup complete");
+            // Add LocalhostServer if it doesn't exist
+            if (FindObjectOfType<LocalhostServer>() == null)
+            {
+                GameObject localhostServer = new GameObject("LocalhostServer");
+                localhostServer.AddComponent<LocalhostServer>();
+            }
+
+            Debug.Log("Networking setup complete - Localhost ready by abhay virus 🔥");
+        }
+
+        [ContextMenu("Setup Localhost")]
+        public static void SetupLocalhost()
+        {
+            Debug.Log("🔥 Setting up localhost server by abhay virus 🔥");
+            
+            // This method can be called from Unity command line
+            var gameSetup = FindObjectOfType<GameSetup>();
+            if (gameSetup != null)
+            {
+                gameSetup.SetupGame();
+            }
         }
 
         void SetupGameplaySystems()
